@@ -1,0 +1,186 @@
+[
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T09:30:00Z",
+    "endTime": "2024-03-29T10:00:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T11:30:00Z",
+    "endTime": "2024-03-29T12:00:00Z",
+    "booked": true,
+    "patientName": "Zou Jian"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T12:30:00Z",
+    "endTime": "2024-03-29T13:00:00Z",
+    "booked": true,
+    "patientName": "Brian Hamilton"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T13:30:00Z",
+    "endTime": "2024-03-29T14:00:00Z",
+    "booked": true,
+    "patientName": "Dana Nguyen"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T14:30:00Z",
+    "endTime": "2024-03-29T15:00:00Z",
+    "booked": true,
+    "patientName": "Elizabeth Woods"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T15:30:00Z",
+    "endTime": "2024-03-29T16:00:00Z",
+    "booked": true,
+    "patientName": "Lana Aster"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T16:30:00Z",
+    "endTime": "2024-03-29T17:00:00Z",
+    "booked": true,
+    "patientName": "Kimberly Smith"
+  },
+  {
+    "clinicId": "1",
+    "clinicName": "Aurora Reproductive Healthcare",
+    "startTime": "2024-03-29T17:30:00Z",
+    "endTime": "2024-03-29T18:30:00Z",
+    "booked": true,
+    "patientName": "Jen Psalm"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T09:10:00Z",
+    "endTime": "2024-03-29T09:40:00Z",
+    "booked": true,
+    "patientName": "Jorge Sullivan"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T10:10:00Z",
+    "endTime": "2024-03-29T10:40:00Z",
+    "booked": true,
+    "patientName": "April Snyder"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T11:10:00Z",
+    "endTime": "2024-03-29T11:40:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T13:10:00Z",
+    "endTime": "2024-03-29T13:40:00Z",
+    "booked": true,
+    "patientName": "Norma Fisher"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T14:10:00Z",
+    "endTime": "2024-03-29T14:40:00Z",
+    "booked": true,
+    "patientName": "Theodore McGrath"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T15:10:00Z",
+    "endTime": "2024-03-29T15:40:00Z",
+    "booked": true
+  ,
+    "patientName": "Stephanie Sutton"
+  },
+  {
+    "clinicId": "2",
+    "clinicName": "Spire Healthcare Limited",
+    "startTime": "2024-03-29T16:10:00Z",
+    "endTime": "2024-03-29T16:40:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T08:15:00Z",
+    "endTime": "2024-03-29T08:45:00Z",
+    "booked": true,
+    "patientName": "Christian Ryan"
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T08:15:00Z",
+    "endTime": "2024-03-29T08:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T09:15:00Z",
+    "endTime": "2024-03-29T09:45:00Z",
+    "booked": true,
+    "patientName": "Fiona Orange"
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T10:15:00Z",
+    "endTime": "2024-03-29T10:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T11:15:00Z",
+    "endTime": "2024-03-29T11:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T12:15:00Z",
+    "endTime": "2024-03-29T12:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T13:15:00Z",
+    "endTime": "2024-03-29T13:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T14:15:00Z",
+    "endTime": "2024-03-29T14:45:00Z",
+    "booked": false
+  },
+  {
+    "clinicId": "3",
+    "clinicName": "King's Fertility",
+    "startTime": "2024-03-29T15:15:00Z",
+    "endTime": "2024-03-29T15:45:00Z",
+    "booked": true,
+    "patientName": "Camila Ryan"
+  }
+]
